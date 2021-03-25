@@ -1,0 +1,7 @@
+#Thu Mar 25 10:39:14 BRT 2021
+base.0=C\:\\Users\\camar\\AndroidStudioProjects\\App_lista_filmes_webservice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a3c3360ceebcd174c2b49d2b03702598a1def3b9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\camar\\AndroidStudioProjects\\App_lista_filmes_webservice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1abc322c606da8517c475d74e548a81e13912da2\\classes.dex
+base.1=C\:\\Users\\camar\\AndroidStudioProjects\\App_lista_filmes_webservice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1abc322c606da8517c475d74e548a81e13912da2
+file.0=C\:\\Users\\camar\\AndroidStudioProjects\\App_lista_filmes_webservice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a3c3360ceebcd174c2b49d2b03702598a1def3b9\\classes.dex

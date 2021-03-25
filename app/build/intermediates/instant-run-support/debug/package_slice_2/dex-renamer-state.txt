@@ -1,0 +1,4 @@
+#Thu Mar 25 10:10:37 BRT 2021
+base.0=C\:\\Users\\camar\\AndroidStudioProjects\\App_lista_filmes_webservice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=C\:\\Users\\camar\\AndroidStudioProjects\\App_lista_filmes_webservice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

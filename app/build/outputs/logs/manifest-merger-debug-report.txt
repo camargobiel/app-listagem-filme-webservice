@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:3:5-60
+		INJECTED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:5:5-83
+	android:name
+		ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:6:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\camar\.android\build-cache\bfe46d434bbb9d5aeb234997523d176bda4a18ff\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\camar\.android\build-cache\ebe3ceace3598e28aa59827d4e4d92bd8d48b719\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\camar\.android\build-cache\bb874838b7aac5f9424822993a7e836615c7e199\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\camar\.android\build-cache\1cbfa62a113af46dbbc0189a362ac03bfe4c9b82\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\camar\.android\build-cache\82d0b9503c48bb073babe77b001bdece0dab80b6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\camar\.android\build-cache\e3e12b2933d22c5dd26721769cf1cefa5152b006\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\camar\.android\build-cache\37da0a461abd0b82801178973030c6efd2066e26\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\camar\.android\build-cache\03cdf84eeedd493dc76a0d2acf35dc511d4fc4de\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\camar\.android\build-cache\ea394ae00a3a71d3d52b8ee5a44478dad0556fee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\camar\.android\build-cache\2cb079d5929c3a4b553d7a8d29e7c12507829d93\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.camar.app_lista_filmes_webservice.TelaPrincipal
+ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:13:9-20:20
+	android:name
+		ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:13:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:15:9-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.camar.app_lista_filmes_webservice.TelaDetalhe
+ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:21:5-55
+	android:name
+		ADDED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml:21:15-42
+uses-sdk
+INJECTED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\camar\.android\build-cache\bfe46d434bbb9d5aeb234997523d176bda4a18ff\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\camar\.android\build-cache\ebe3ceace3598e28aa59827d4e4d92bd8d48b719\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\camar\.android\build-cache\bb874838b7aac5f9424822993a7e836615c7e199\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\camar\.android\build-cache\1cbfa62a113af46dbbc0189a362ac03bfe4c9b82\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\camar\.android\build-cache\82d0b9503c48bb073babe77b001bdece0dab80b6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\camar\.android\build-cache\e3e12b2933d22c5dd26721769cf1cefa5152b006\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\camar\.android\build-cache\37da0a461abd0b82801178973030c6efd2066e26\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\camar\.android\build-cache\03cdf84eeedd493dc76a0d2acf35dc511d4fc4de\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\camar\.android\build-cache\ea394ae00a3a71d3d52b8ee5a44478dad0556fee\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\camar\.android\build-cache\2cb079d5929c3a4b553d7a8d29e7c12507829d93\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\camar\.android\build-cache\bfe46d434bbb9d5aeb234997523d176bda4a18ff\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\camar\AndroidStudioProjects\App_lista_filmes_webservice\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\camar\.android\build-cache\bfe46d434bbb9d5aeb234997523d176bda4a18ff\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\camar\.android\build-cache\ebe3ceace3598e28aa59827d4e4d92bd8d48b719\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\camar\.android\build-cache\bb874838b7aac5f9424822993a7e836615c7e199\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\camar\.android\build-cache\1cbfa62a113af46dbbc0189a362ac03bfe4c9b82\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\camar\.android\build-cache\82d0b9503c48bb073babe77b001bdece0dab80b6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\camar\.android\build-cache\e3e12b2933d22c5dd26721769cf1cefa5152b006\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\camar\.android\build-cache\37da0a461abd0b82801178973030c6efd2066e26\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\camar\.android\build-cache\03cdf84eeedd493dc76a0d2acf35dc511d4fc4de\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\camar\.android\build-cache\ea394ae00a3a71d3d52b8ee5a44478dad0556fee\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\camar\.android\build-cache\bfe46d434bbb9d5aeb234997523d176bda4a18ff\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\camar\.android\build-cache\bfe46d434bbb9d5aeb234997523d176bda4a18ff\output\AndroidManifest.xml:26:9-47
